@@ -58,3 +58,9 @@ blockquote {
   font-family: Libre Baskerville, serif;
   font-size: 18px;
 }
+main { 
+    background-image: url(https://bbrook.org/wp-content/uploads/2022/04/Bound-Brook-High-School.jpg);
+  background-position: 450px 100px;
+  background-repeat: no-repeat;
+  background-size: 300px 166px;
+}
