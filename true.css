@@ -67,3 +67,7 @@ main {
   background-size: 300px 166px;
 }
 */
+
+img {
+    border: solid 1px black;
+}
